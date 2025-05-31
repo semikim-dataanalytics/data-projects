@@ -1,4 +1,4 @@
-# UI-Based Data Mining (DSCI 250 – Fall 2024)
+# UI-Based Data Mining
 
 This project explores basic data mining techniques using visual tools like WEKA and KNIME.
 
@@ -15,3 +15,7 @@ This project explores basic data mining techniques using visual tools like WEKA 
 - WEKA
 - KNIME
 - Orange
+
+## Author
+Semi Kim  
+USC – DSCI 250, Fall 2024
