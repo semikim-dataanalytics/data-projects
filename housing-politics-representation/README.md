@@ -3,7 +3,7 @@
 This research explores how powerful real estate interests have shaped the political representation of low-income and cost-burdened renters in urban housing policy.
 
 ## Contents
-
+- 📄 [Project Report PDF](./seminar_paper_representation.pdf)
 
 ## Key Themes
 - Zoning laws and supply-side constraints
