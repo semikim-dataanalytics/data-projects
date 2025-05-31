@@ -6,6 +6,9 @@ This project investigates whether larger cities in France provide better living 
 - Population density
 - Housing costs and amenities
 
+## Contents
+- 📄 [Project Report PDF](./urban_economics_project.pdf)
+
 ## Key Findings
 - Higher population density correlates with higher wages, but also higher housing costs
 - Disposable income tends to be lower in dense cities despite higher nominal wages
