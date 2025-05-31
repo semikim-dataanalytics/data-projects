@@ -3,7 +3,7 @@
 This project explores basic data mining techniques using visual tools like WEKA and KNIME.
 
 ## Contents
-- 📄 [Project Report PDF](./UI-Data-Mining.pdf)
+- 📄 [Project Report PDF](./ui-data-mining.pdf)
 
 ## Topics Covered
 - Linear regression (WEKA, KNIME)
