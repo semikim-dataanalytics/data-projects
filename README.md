@@ -1,6 +1,6 @@
 # Data Projects – Sciences Po & USC
 
-This repository contains data-driven research and coursework completed by Rachel Kim during her studies at:
+This repository contains data-driven research and coursework completed at:
 - **USC (DSCI 250 - Fall 2024)**  
 - **Sciences Po, Paris (Spring 2025)**
 
